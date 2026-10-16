@@ -17,14 +17,21 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 ## Responsables de las funcionalidades
 
 | Estudiante | Página asignada | Rama | Commits principales |
-|---|---|---|---|
-| | | | |
+|Angely|Feature 1 - Carta interactiva|feature/angely|![alt text](image-31.png) ![alt text](image-32.png)|
+|Valeria|Feature 2 - Equipo |feature/valeria|![alt text](image-33.png) ![alt text](image-36.png)|
+|Amanda|Feature 3 - Agenda |feature/amanda |![alt text](image-34.png) ![alt text](image-35.png) |
 
 ## Evidencias Git
 
 | Funcionalidad/corrección | PR hacia develop | Revisor | Resultado de merge / conflicto si ocurrió |
-|---|---|---|---|
-| | | | |
+|![alt text](image-17.png) ![alt text](image-18.png) ![alt text](image-19.png)|![alt text](image-20.png) ![alt text](image-21.png) ![alt text](image-22.png) ![alt text](image-23.png) ![alt text](image-24.png) ![alt text](image-25.png) ![alt text](image-30.png)|Se muestra en la captura de la columna de PR hacia develop|NO hubo conflictos.|
+
 
 ## Verificación final
 Registrar las pruebas de funcionamiento a 1280 px y 375 px, enlaces y páginas.
+![alt text](image-26.png)
+![alt text](image-27.png)
+Enlaces: 
+![alt text](image-28.png)
+Páginas: 
+![alt text](image-29.png)
