@@ -38,6 +38,14 @@
   display: block;
 }
 
+.resumen-recomendacion {
+  background: white;
+  border-radius: 14px;              
+  padding: 30px;                    
+  margin-top: 40px;                 
+  box-shadow: 0 5px 25px #173b2d13; 
+}
+
 @media (max-width: 768px) {
   .tarjeta {
     grid-template-columns: 1fr;
