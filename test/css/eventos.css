@@ -1,0 +1,53 @@
+.tarjetas {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  margin-top: 30px;
+}
+
+.tarjeta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;          
+  background: white;
+  border-radius: 14px;
+  overflow: hidden;           
+  box-shadow: 0 5px 25px #173b2d13;
+}
+
+.texto-tarjeta{
+  padding: 30px; 
+}
+
+.tarjeta-texto h3 {
+  margin: 0 0 10px;
+}
+
+.tarjeta-texto p {
+  margin: 0 0 12px; 
+}
+
+.tarjeta-texto ul {
+  padding-left: 20px;
+}
+
+.tarjeta img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.resumen-recomendacion {
+  background: white;
+  border-radius: 14px;              
+  padding: 30px;                    
+  margin-top: 40px;                 
+  box-shadow: 0 5px 25px #173b2d13; 
+}
+
+@media (max-width: 768px) {
+  .tarjeta {
+    grid-template-columns: 1fr;
+  }
+}
